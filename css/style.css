@@ -1,0 +1,9 @@
+body {
+    background-color: #666666;
+    text-align: center;
+}
+
+button {
+    width: 75%;
+    padding: 13px;
+}
